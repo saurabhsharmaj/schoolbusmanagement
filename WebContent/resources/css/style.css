@@ -1,0 +1,12 @@
+.bread {
+padding:0 10px;
+}
+
+input.time {
+    width: 80px;
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #aac;
+    border-radius: 5px;
+    font-size: 13px;
+    padding: 3px;
+}
